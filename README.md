@@ -1,0 +1,1 @@
+# Power-of-2-and-10
